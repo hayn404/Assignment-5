@@ -52,8 +52,8 @@ jobs:
             --experiment_name "Assignment5_CI" \
             --student_id "${{ secrets.STUDENT_ID }}" \
             --epochs 5 \
-            --batch_size 64 \
-            --lr 0.001 \
+            --batch_size 32 \
+            --lr 0.1 \
             --seed 42 \
             --max_samples 5000
 
