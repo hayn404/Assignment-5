@@ -1,0 +1,5 @@
+outs:
+- md5: 8ff123bd61580ff6834c4a66998a82b3
+  size: 113462128
+  hash: md5
+  path: apple.npy

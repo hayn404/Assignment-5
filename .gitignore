@@ -15,9 +15,7 @@ conda-meta/
 *.env
 mlruns/
 mlartifacts/
-data/
 outputs/
-*.npy
 *.pt
 *.pth
 *.ckpt
